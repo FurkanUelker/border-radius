@@ -1,4 +1,4 @@
 This is a Javascript Border-Radius Previewer
 
---See live version: https://furkanuelker.github.io/border-radius/
+--See live version: https://frknue.github.io/border-radius/
     
